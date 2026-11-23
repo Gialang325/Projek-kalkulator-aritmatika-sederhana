@@ -3,8 +3,8 @@
 
 Projek ini adalah projek kelompok 7 yang dibuat untuk memenuhi tugas mata kuliah semester 1 pemrograman dasar di <b>Universitas Borneo Tarakan</b>. Dengan dibuatnya projek ini maka diharapkan bahwa mahasiswa memahami fungsi fungsi dasar seperti operator, if-else, string, dan sebagainya pada C++. Selain itu projek tersebut memiliki flowchart untuk mengetahui alur kerja projek kalkulator aritmatika sederhana.
 
-<b>Terima kasih</b><br><br>
-Dosen pengampu: Awang Pradana, S.kom.,M.kom
+<b>Terima kasih</b><br>
+Dosen pengampu: Awang Pradana, S.kom.,M.kom<br><br>
 
 Anggota kelompok 7<br>
 Muhammad Gilang Ramadhan<br>
