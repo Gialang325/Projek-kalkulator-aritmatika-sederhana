@@ -6,7 +6,7 @@ Projek ini adalah projek kelompok 7 yang dibuat untuk memenuhi tugas mata kuliah
 <b>Terima kasih</b><br>
 Dosen pengampu: Awang Pradana, S.kom.,M.kom<br><br>
 
-Anggota kelompok 7<br>
+<b>Anggota kelompok 7</b><br>
 Muhammad Gilang Ramadhan<br>
 Alvino Christa Samara<br>
 Afif Firza Nurkholis<br>
