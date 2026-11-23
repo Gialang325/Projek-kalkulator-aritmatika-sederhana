@@ -1713,10 +1713,10 @@ int main()
 			cout << "==================\n";
 			cout << "\nAnggota kelompok 7\n";
 			cout << "==================\n";
-			cout << "Nama: Muhammad Gilang Ramadhan (26456202029)\n";
-			cout << "Nama: Alvino Christa Samara (26456202023)\n";
-			cout << "Nama: Afif Firza Nurkolis (26456202019)\n";
-			cout << "Nama: Muhammad Fakhri (26456202020)\n";
+			cout << "Nama: Muhammad Gilang Ramadhan\n";
+			cout << "Nama: Alvino Christa Samara\n";
+			cout << "Nama: Afif Firza Nurkolis\n";
+			cout << "Nama: Muhammad Fakhri\n";
 
 			// // Untuk membersihkan sisa input agar tak mengganggu proses input berikutnya
 			cin.ignore(numeric_limits<streamsize>::max(), '\n');
